@@ -27,12 +27,12 @@ SQL was used to analyze the dataset and answer important business questions.
 
 Key analysis included:
 
-Revenue by market
-Revenue by category
-Profitability by category
-Shipping mode usage
-Sales and profit analysis
-Product performance
+1. Revenue by market
+2. Revenue by category
+3 Profitability by category
+4. Shipping mode usage
+5. Sales and profit analysis
+6. Product performance
 
 ## Key Business Insights
 
