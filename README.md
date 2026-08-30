@@ -21,6 +21,19 @@ The project uses **Excel, MySQL, and Power BI** to clean, analyze, visualize, an
 5. Interactive dashboard creation using Power BI
 6. Final business insights and recommendations
 
+## SQL Analysis
+
+SQL was used to analyze the dataset and answer important business questions.
+
+Key analysis included:
+
+Revenue by market
+Revenue by category
+Profitability by category
+Shipping mode usage
+Sales and profit analysis
+Product performance
+
 ## Key Business Insights
 
 ### Market Performance
